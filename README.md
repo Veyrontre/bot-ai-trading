@@ -1,4 +1,4 @@
-# 🏆 XAUUSD AI Trading System
+# 🏆 BOT AI Trading System
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![MetaTrader5](https://img.shields.io/badge/MetaTrader5-00BFFF?style=for-the-badge&logo=metatrader&logoColor=white)
@@ -41,8 +41,8 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/xauusd-ai-trading.git
-cd xauusd-ai-trading
+git clone https://github.com/yourusername/bot-ai-trading.git
+cd bot-ai-trading
 
 # 2. Create virtual environment
 python -m venv venv
